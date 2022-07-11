@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "6a2ea16e-6f90-40ca-9c6c-0ecc0bfc465a",
+		"name": "T3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "889219"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
